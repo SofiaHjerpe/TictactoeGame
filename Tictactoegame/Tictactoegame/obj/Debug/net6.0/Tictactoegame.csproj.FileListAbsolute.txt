@@ -1,0 +1,14 @@
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\Tictactoegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\Tictactoegame.AssemblyInfoInputs.cache
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\Tictactoegame.AssemblyInfo.cs
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\Tictactoegame.csproj.CoreCompileInputs.cache
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\bin\Debug\net6.0\Tictactoegame.exe
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\bin\Debug\net6.0\Tictactoegame.deps.json
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\bin\Debug\net6.0\Tictactoegame.runtimeconfig.json
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\bin\Debug\net6.0\Tictactoegame.dll
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\bin\Debug\net6.0\Tictactoegame.pdb
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\Tictactoegame.dll
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\refint\Tictactoegame.dll
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\Tictactoegame.pdb
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\Tictactoegame.genruntimeconfig.cache
+C:\Users\hjerp\Documents\GitHub\Tictactoegame\Tictactoegame\obj\Debug\net6.0\ref\Tictactoegame.dll
